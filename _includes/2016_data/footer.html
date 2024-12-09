@@ -17,15 +17,8 @@ footer {
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://www.kiapi.or.kr">KIAPI</a>, R&D Dep.,<br>All Rights Reserved.</span>
-            </div>
-            <div class="col-md-4">
-                <ul class="list-inline social-buttons">
-                    {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
-                    {% endfor %}
-                </ul>
+            <div class="col-lg-12">
+                <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://www.kiapi.or.kr">Korea Automotive Parts Promotion Institute(KIAPI)</a>, Research&Development Department, All Rights Reserved.</span>
             </div>
         </div>
     </div>
