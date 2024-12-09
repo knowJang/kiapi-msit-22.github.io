@@ -151,27 +151,3 @@
     padding-top: 0px;
   }
 }
-
-.sponsor-image {
-  width: 200px; /* 가로 크기를 지정 */
-  height: auto; /* 비율 유지 */
-  display: block;
-  margin: 0 auto; /* 가로 방향 가운데 정렬 */
-  position: relative;
-}
-
-/* 세로 방향 가운데 정렬 */
-.col-md-4, .col-sm-6 {
-  display: flex; /* Flexbox 사용 */
-  align-items: center; /* 세로 가운데 정렬 */
-  justify-content: center; /* 가로 방향 가운데 정렬 */
-  height: 100%; /* 필요시 높이 지정 */
-  text-align: center;
-}
-
-.sponsors-section {
-  margin-top: 50px; /* 위쪽 여백 */
-  margin-bottom: 50px; /* 아래쪽 여백 */
-  padding-top: 100px; /* 섹션 내부 위쪽 여백 */
-  padding-bottom: 100px; /* 섹션 내부 아래쪽 여백 */
-}
