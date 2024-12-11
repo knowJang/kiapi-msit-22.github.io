@@ -119,20 +119,14 @@
   }
 
   .sponsor-image {
-    width: 200px; /* 가로 크기를 지정 */
-    height: auto; /* 비율 유지 */
-    display: block;
-    margin: 0 auto; /* 가로 방향 가운데 정렬 */
-    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
   }
   
-  /* 세로 방향 가운데 정렬 */
   .col-md-4, .col-sm-6 {
-    display: flex; /* Flexbox 사용 */
-    align-items: center; /* 세로 가운데 정렬 */
-    justify-content: center; /* 가로 방향 가운데 정렬 */
-    height: 100%; /* 필요시 높이 지정 */
-    text-align: center;
+    flex: 0 0 auto;
   }
 }
 
