@@ -48,6 +48,10 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-white {
+    color: #ffffff;
+}
+
 p {
     line-height: 1.75;
 	font-size: 110%;
