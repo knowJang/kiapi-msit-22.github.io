@@ -339,17 +339,20 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100vh;
+    position: relative;
+    height: 100vh; /* 전체 화면 높이 */
+    overflow: hidden; /* 이미지 넘침 방지 */
     text-align: center;
-    color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+}
+
+header img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* 이미지 중앙 정렬 */
+    width: 100%; /* 디바이스 너비에 맞춤 */
+    height: auto; /* 비율 유지 */
+    object-fit: cover; /* 배경처럼 작동 */
 }
 
 header .intro-text {
