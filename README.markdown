@@ -59,7 +59,4 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!
-gkfnzkxhdhzn dhdhkfkskdl qpxpfnrltndmtm  
-zlalslah aldpfnekfh dlshflrk  
-thfksl dkfnskslzkdh alcmzpxpxkfk  
-thfpdhk ghtlektxp zlalrk dhtldpxpznfpxk  
+ang gimoring
