@@ -89,7 +89,3 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 1   
 1   
 1   
-1   
-1   
-1   
-
