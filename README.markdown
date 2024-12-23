@@ -59,35 +59,13 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!
-## Features
-### Index Page
-- Event's title, location, and date
-- Welcoming remark section with video
-- Speaker with name, title, pop up profile section
-- About section with options to navigate to subpages
-- Event Sponsors' pictures section
-- Contact Us section
-  - Refer to [Formspree](https://formspree.io/) on how to setup the contact form.
-### Agenda Page
-- Table with time and event title columns
-- Speaker's name is hilighted in different color and speaker's position/title is in italic.
-### Team's Profile Page
-Two different design:
--  profile picture with name and email
--  user profile with picture, title, position, and profile
-### Event's Location
-- Google Map (need to replace it with your own API key)
-### FAQs Page
-- Just a typical FAQs page
-### Mission, Vision, and Objectives Page
-- Sections to talk about mission, vision, objectives, and history about your event
-### Register Page
-- A page to redirect to a sign up page
-### More features
-- Google Analytics built in (replace `UA-xxxxxxxx-x` with your personal analytics verification key in `_includes/2016_data/head.html`)
-- SEO (check `_config.yml`)
-- Customized 404 Page Not Found Page
-- Designed to be futureproof as you can create a subpages for each year (eg. YOUR-LINK.github.io/2015, YOUR-LINK.github.io/2016, etc)
-- Header with icon logo defined, but removed from source code. 
-- Website logo in SVG defined, but removed from source code.
-- Display PDF from Google Drive
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
+wkdbfwngod goqhwkRNsk~  
