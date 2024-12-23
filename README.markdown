@@ -59,28 +59,6 @@ _Note: If you forked it and edited `_config.yml` via the online editor on Github
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!
-zkdhzndh xkehfn xkql dyalrkdpfndy  
-zlalrk dlcmektxp thzhsl dlxpznfpfn zhxh  
-akfnep thfpdhk ghtlsh glzkflxh dhskwldysl  
-zysl skdlxkfl dhkfktxkfl cmskdlep dlzn  
-skwbzkdl sksqiznzkdl qncmzkfldktxp  
-skswbsps sksqiznsps anzktlsh glzkflrk  
-qhzn wltlsah dhktmfpxk zhfhsl  
-qhznfkdh xptktlxptfn  
-qhznfk alcmzpdktxp xkrnfldktxp dhskwl thfk  
-zkrkdiznxhektxp gnxkflektxp diznthzntlxk  
-gkfnzk xhdhzn dhdhkfkskdl qpxpfnrldntm  
-ekfpzksl cmskrn akgh  
-ehzhakep dlcmakep dlzlfkfpfnzk  
-zlalrk gndkssl skfnxkqlsl cmdyrkfnsek  
-ekdlwyqn qhznrk dyzhsl dlfndy   
-aldpskdl tpsdh cmmskrh  
-qhznfk alcmzpdktxp xprnfldktxp dhskwlwl thfk  
-zkrkdiznshektxp gnxkflektxp diznthzntlxk  
-gkfnzk xhdhzn dhdhkfkskdl qpxpfnrldntm  
-ekfpzksl cmskrn akgh  
-qhznfk zkxkskfkqp xpehfldktxp tmtmsepzn  
-cmfkdlxhzlektxp gnxkflektxp clzktxkekfh  
 gkfnzkxhdhzn dhdhkfkskdl qpxpfnrltndmtm  
 zlalslah aldpfnekfh dlshflrk  
 thfksl dkfnskslzkdh alcmzpxpxkfk  
